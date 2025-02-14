@@ -1,0 +1,121 @@
+Data Being Restored from Two NASA Solar Missions
+Following a data outage in November 2024, some data from NASA’s SDO (Solar Dynamics Observatory) and full data from NASA’s IRIS (Interface Region Imaging Spectrograph) has been successfully restored. This marks a significant step in resuming the flow of critical solar observations informing scientists and the space weather community.
+
+Repairs are ongoing at the Joint Science Operations Center at Stanford University, which processes and distributes data from two of SDO’s imaging instruments. Since early January, near-real time images from these instruments are being provided every 15 minutes. Additionally, processing of most other SDO data has resumed, with additional processed data being distributed as system repairs progress.
+
+Meanwhile, all data from NASA’s IRIS during the outage period is now fully accessible from the IRIS archive at  Lockheed Martin Solar & Astrophysics Lab.
+
+The SDO and IRIS missions continuously monitor solar activity, providing essential data to help scientists understand solar dynamics, such as flares, coronal mass ejections, and other space weather that can impact satellites, communications, and even power grids on Earth. No data was lost during the outage, which will allow researchers to analyze past solar activity once full data distribution is restored.
+
+Data From 2 NASA Solar Missions Temporarily Unavailable
+Some data from NASA’s SDO (Solar Dynamics Observatory) and IRIS (Interface Region Imaging Spectrograph) missions is temporarily unavailable because of flooding in the building that houses the missions’ data center at Stanford University. Both spacecraft remain healthy and are otherwise operating normally.  
+
+On Tuesday, Nov. 26, a broken pipe caused major flooding in the building that houses the Joint Science Operations Center, which processes and distributes data from two of SDO’s instruments and processes IRIS data. New data and some historical data from the affected instruments will be unavailable until repairs are complete, currently estimated for the first quarter of 2025. During the outage, both spacecraft continue to collect and downlink data. The mission teams expect this data to be available once repairs to the data center are complete.  
+
+The outage includes current and historical data for SDO’s Atmospheric Imaging Assembly and Helioseismic and Magnetic Imager instruments, which provide a constant eye on the Sun in multiple wavelengths of light. Some historical data from these instruments through Nov. 26 is available from alternative sources outlined on the Joint Science Operations Center website.  
+
+The outage also includes current data from the IRIS mission, which observes how solar material moves, gathers energy, and heats up as it travels through the Sun’s lower atmosphere. Historical processed data from this mission through Nov. 22 continues to be accessible from the IRIS archive at Lockheed Martin Solar & Astrophysics Lab.  
+
+Data from SDO’s Extreme ultraviolet Variability Experiment instrument is unaffected and remains available from the Laboratory for Atmospheric and Space Physics at the University of Colorado Boulder.  
+
+From Science to Swimming: A Conversation on Resilience
+NASA’s Solar wind with Hydrogen Ion charge Exchange and Large-Scale Dynamics (SHIELD) science center is hosting a webinar on Aug. 19, 2024, at 2 p.m. EDT. Anyone can tune in virtually and hear how space exploration can learn from the groundbreaking athlete Diana Nyad.
+
+NASA is celebrating the Heliophysics Big Year, highlighting how the Sun touches everything (including physical and mental health). This webinar explores the mental fortitude and physical prowess it took for Nyad to swim the open ocean from Cuba to Key West, Florida, and the perseverance from physicist Merav Opher to start a multi-institutional Diversify, Realize, Integrate, Venture, Educate (DRIVE) science center that was awarded funding by NASA.
+
+Nyad is a world-renowned marathon swimmer who swam around Manhattan Island in New York, swam from the Bahamas to Florida, and is the first and only person to swim the open ocean from Cuba to Key West in Florida. She is also a member of the International Women’s Sports Hall of Fame, an author, journalist, motivational speaker, commentator, and has appeared in several popular television shows.
+
+Nyad’s passion, perseverance, and resilience have played key roles in her success when taking on some of the most difficult challenges in marathon swimming. She will speak with Merav Opher, leader of the SHIELD DRIVE Science Center, on how these traits can be translated to heliophysics, the study of the Sun and its influence on our solar system.
+
+Opher is no stranger to these traits herself. Now a professor of astronomy at Boston University and a Harvard Radcliffe Fellow, when she first entered heliophysics in 1992, she was one of the few women in the field. When studying solar plasma physics in 1999 at the University of California, Los Angeles, she was the only woman in her department, while coming out as gay and adjusting to a new culture after moving from Sao Paulo, Brazil, requiring resilience and perseverance to continue in her studies. However, these challenges only increased her passion for heliophysics. She knocked down several barriers, eventually earning collaborations and mentorships from several renowned scientists in the field.
+
+In 2014, Opher and her team at Boston University suggested a novel idea about our heliosphere, the bubble formed by solar wind surrounding our solar system that protects us from interstellar radiation. She and her team proposed that our heliosphere was croissant-shaped, contradicting the long-held belief that it was comet-shaped with a tail. This idea faced strong resistance from the scientific community.
+
+“I had to follow my own path, my own thinking. I wanted to do creative, interesting science, and when the science told me something, I listened,” said Opher. “When deciding to propose this new heliospheric shape, I decided to strive for the impossible, to really push the boundaries.”
+
+Rather than feeling defeated by the resistance from the science community, Opher pressed on. During this difficult time, she decided to establish a science center where collaboration and diversity were welcome and encouraged.
+
+“This lack of diversity is really detrimental to the advance of science,” said Opher. She is working to change that.
+
+With passion, perseverance, and resilience, Opher built a multi-institutional team composed of members who hold a range of strong opinions about the shape and science of our heliosphere. Eventually, the science center she established, SHIELD, was one of three centers awarded funding by NASA to tackle breakthrough science. The SHIELD DRIVE Science Center also works extensively in outreach to recruit future scientists from all backgrounds and affiliations.
+
+Diana Nyad and Merav Opher share an indomitable sense of spirit, and through their trials, have developed a strong sense of self to aid them through the obstacles they face in each of their fields. Register to watch this webinar to hear how Diana Nyad’s experiences and perspectives can help when shaping our future science communities.
+
+Heliophysics and Programming Converge at PyHC Summer School
+
+A celebration of open-source software kicked off at the Python in Heliophysics Community (PyHC) Summer School in Boulder, Colorado, this week. Anyone can tune in virtually through May 24 to watch live-streamed demos and presentations from this NASA-funded project showcasing how the Python programming language is at the forefront of innovation in heliophysics research and data analysis.
+
+Python is a free and open-source programming language designed to be intuitive and easy to read with interactive applications that enable collaboration. It can also integrate older programming languages and run in many environments, including remote servers hosted in the cloud. PyHC is a community of scientists, open-source developers, and research software engineers who are passionate about Python.
+
+“It’s kind of the intersection of science and software programming,” says Julie Barnum, principal investigator for PyHC and project manager at University of Colorado’s Laboratory for Atmospheric and Space Physics (LASP). “Most of the people involved in our community are scientists, or work really close with scientists, and started developing these packages because they saw a need for it.”
+
+PyHC offers a suite of diverse, standardized Python software packages with functions ranging from data access and downloads to analysis, visualization, and plotting. Seven core packages provide a wide range of capabilities, while dozens of additional software libraries can carry out more targeted, specific calculations. 
+
+Heliophysics research explores the nature of the relationship between the Sun, planets, asteroids, comets, and space environment as a dynamic system. PyHC formed in 2018 from a NASA grant that intended to bring together people from different areas of heliophysics who were already working with Python to support scientific discovery. 
+
+“We’ve long recognized that the community was doing great work and wanted to help create an organization which would coordinate and advertise this work to our broader community of heliophysics researchers,” explains Brian Thomas, project scientist at NASA’s Heliophysics Digital Resource Library (HDRL). “Python is one of the primary languages to analyze data in heliophysics now.” 
+
+The community has expanded to include volunteers from various institutions including NASA, universities, and international agencies. Volunteers support PyHC outreach events, virtual and in-person meetings, and scientific conferences. 
+
+The PyHC Summer School is welcoming early career scientists, students, post-doctoral researchers, and senior scientists to LASP this week to learn the foundations of Python-powered research and about how to join the growing community. Sessions throughout the week streaming live on YouTube are highlighting PyHC’s seven core packages. Students on site can take part in interactive coding exercises and a challenge game, while software enthusiasts at home can download any of the free packages and follow along with the tutorials they choose. Presentations on machine learning and searching for data in heliophysics are also scheduled.
+
+This is the second PyHC Summer School event. The inaugural gathering took place in Madrid, Spain, in 2022 in partnership with the European Space Astronomy Centre. 
+
+Collaboration is a key aspect of the PyHC community. PyHC supports NASA’s open science initiative by creating standards in open-source software development so anyone can find, access, and contribute to projects. 
+
+“Open science is important because it makes data accessible and usable by all,” Barnum says. “It brings a lot of different people to the table and I think, especially when it comes to research, if you can get more voices and different backgrounds involved, you just have better research in the end.” 
+
+PyHC Core Packages: 
+
+Heliophysics Application Programmer’s Interface (HAPI) client
+Access and retrieve heliophysics data captured as a time series from various sources. 
+
+Kamodo
+An official NASA open-source Python package built upon the functionalization of datasets providing data analysis via function composition, automatic unit conversions, and publication-quality graphics, all using intuitive and simplistic syntax. 
+
+PlasmaPy
+An open-source, community-developed Python package for plasma research and education. 
+
+Python Satellite Data Analysis Toolkit (pysat)
+Management and analysis tool for satellite and radar data that provides a simple and flexible interface for downloading, loading, cleaning, managing, processing, and analyzing data.
+
+Space Physics Environment Data Analysis Software (PySPEDAS)
+Tools for loading, analysis, and plotting of data from various heliophysics missions and ground magnetometers.
+SpacePy
+A space science library that includes file Input/Output, time, and coordinate conversions as well as common analysis techniques.
+SunPy
+Python package for solar physics that enables users to search and download from various data sources, analyze time series and image data from different observatories in a consistent interface, and transform data between coordinate systems when combining data from multiple spacecraft. 
+NASA Engineers Make Progress Toward Understanding Voyager 1 Issue
+
+Since November 2023, NASA’s Voyager 1 spacecraft has been sending a steady radio signal to Earth, but the signal does not contain usable data. The source of the issue appears to be with one of three onboard computers, the flight data subsystem (FDS), which is responsible for packaging the science and engineering data before it’s sent to Earth by the telemetry modulation unit.
+
+On March 3, the Voyager mission team saw activity from one section of the FDS that differed from the rest of the computer’s unreadable data stream. The new signal was still not in the format used by Voyager 1 when the FDS is working properly, so the team wasn’t initially sure what to make of it. But an engineer with the agency’s Deep Space Network, which operates the radio antennas that communicate with both Voyagers and other spacecraft traveling to the Moon and beyond, was able to decode the new signal and found that it contains a readout of the entire FDS memory.
+
+The FDS memory includes its code, or instructions for what to do, as well as variables, or values used in the code that can change based on commands or the spacecraft’s status. It also contains science or engineering data for downlink. The team will compare this readout to the one that came down before the issue arose and look for discrepancies in the code and the variables to potentially find the source of the ongoing issue.
+
+This new signal resulted from a command sent to Voyager 1 on March 1. Called a “poke” by the team, the command is meant to gently prompt the FDS to try different sequences in its software package in case the issue could be resolved by going around a corrupted section.
+
+Because Voyager 1 is more than 15 billion miles (24 billion kilometers) from Earth, it takes 22.5 hours for a radio signal to reach the spacecraft and another 22.5 hours for the probe’s response to reach antennas on the ground. So the team received the results of the command on March 3. On March 7, engineers began working to decode the data, and on March 10, they determined that it contains a memory readout.
+
+The team is analyzing the readout. Using that information to devise a potential solution and attempt to put it into action will take time.
+
+NASA’s TIMED Spacecraft Passes Safely by Satellite
+The Department of Defense has confirmed that NASA’s Thermosphere Ionosphere Mesosphere Energetics and Dynamics Mission (TIMED) spacecraft and the Russian Cosmos 2221 satellite passed each other safely in orbit at about 1:34 a.m. EST on Wednesday, Feb. 28. NASA has confirmed that TIMED is functioning. While the two non-maneuverable satellites will approach each other again, this was their closest pass in the current predicted orbit determinations, as they are gradually moving apart in altitude.
+
+The TIMED mission studies the influence of the Sun and of human activity on Earth’s mesosphere and lower thermosphere/ionosphere. The region is a gateway between Earth and space, where the Sun’s energy is first deposited into Earth’s environment.
+
+NASA’s TIMED Spacecraft to Make Close Pass with Satellite
+The Department of Defense is monitoring a potential collision between NASA’s Thermosphere Ionosphere Mesosphere Energetics and Dynamics Mission (TIMED) spacecraft and the Russian Cosmos 2221 satellite. The two non-maneuverable orbiting spacecraft are expected to make their closest pass at about 1:30 a.m. EST on Wednesday, Feb. 28, at an altitude of about 373 miles (600 km). Although the spacecraft are expected to miss each other, a collision could result in significant debris generation. NASA and the Department of Defense will continue to monitor the situation.
+
+The TIMED science mission studies the influence of the Sun and of human activity on Earth’s mesosphere and lower thermosphere/ionosphere. The region is a gateway between Earth and space, where the Sun’s energy is first deposited into Earth’s environment.
+
+Engineers Working to Resolve Issue With Voyager 1 Computer
+Engineers are working to resolve an issue with one of Voyager 1’s three onboard computers, called the flight data system (FDS). The spacecraft is receiving and executing commands sent from Earth; however, the FDS is not communicating properly with one of the probe’s subsystems, called the telemetry modulation unit (TMU). As a result, no science or engineering data is being sent back to Earth.
+
+Among other things, the FDS is designed to collect data from the science instruments as well as engineering data about the health and status of the spacecraft. It then combines that information into a single data “package” to be sent back to Earth by the TMU. The data is in the form of ones and zeros, or binary code. Varying combinations of the two numbers are the basis of all computer language.
+
+Recently, the TMU began transmitting a repeating pattern of ones and zeros as if it were “stuck.” After ruling out other possibilities, the Voyager team determined that the source of the issue is the FDS. This past weekend the team tried to restart the FDS and return it to the state it was in before the issue began, but the spacecraft still isn’t returning useable data.
+
+It could take several weeks for engineers to develop a new plan to remedy the issue. Launched in 1977, the spacecraft and its twin, Voyager 2, are the two longest-operating spacecraft in history. Finding solutions to challenges the probes encounter often entails consulting original, decades-old documents written by engineers who didn’t anticipate the issues that are arising today. As a result, it takes time for the team to understand how a new command will affect the spacecraft’s operations in order to avoid unintended consequences.
+
+In addition, commands from mission controllers on Earth take 22.5 hours to reach Voyager 1, which is exploring the outer regions of our solar system more than 15 billion miles (24 billion kilometers) from Earth. That means the engineering team has to wait 45 hours to get a response from Voyager 1 and determine whether a command had the intended outcome.
